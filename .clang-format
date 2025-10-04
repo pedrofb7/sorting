@@ -1,0 +1,5 @@
+# .clang-format
+IndentWidth: 2
+AllowShortLoopsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: Always
+
