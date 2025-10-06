@@ -2,4 +2,5 @@
 IndentWidth: 2
 AllowShortLoopsOnASingleLine: true
 AllowShortIfStatementsOnASingleLine: Always
+AllowShortFunctionsOnASingleLine: Empty
 
